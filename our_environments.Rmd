@@ -1,0 +1,25 @@
+---
+title: "our_environments"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#106RladsGroup12
+
+```{r}
+
+
+
+list(
+  Jess = "i386-w64-mingw32/i386 (32-bit)"
+
+)
+
+
+
+```
+
+
