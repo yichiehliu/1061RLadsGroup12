@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 list(
   Jess = "i386-w64-mingw32/i386 (32-bit)"
+  lalami="x86_64-w64-mingw32/x64 (64-bit)"
 
 )
 
