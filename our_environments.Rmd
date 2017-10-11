@@ -19,7 +19,7 @@ list(
   Coco = "x86_64-w64-mingw32/x64 (64-bit)"
   b03702094="x86_64-w64-mingw32/x64 (64-bit)"
   yuanyi = "x86_64-w64-mingw32/x64 (64-bit)"
-  
+  Rookiestarter2017 = "x86_64-w64-mingw32/x64 (64-bit)"
 )
 
 
